@@ -1,7 +1,7 @@
 # 2D-A-star-path-planning-using-only-NumPy
 Using only NumPy and Math libraries to visualize A* algorithm.
 
-You can change the following to change map, reolution, start, and end.
+You can change the following to change map, resolution, start, and end.
 
 ![image](https://github.com/MostafaELFEEL/2D-A-star-path-planning-using-only-NumPy/assets/106331831/bd4fe61d-6fec-443c-8fa7-920da1b60e32)
 
