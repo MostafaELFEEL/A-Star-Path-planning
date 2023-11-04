@@ -71,6 +71,7 @@ A* algorithm has been evaluated on each map, demonstrating its ability to find o
 
    ```bash
    git clone https://github.com/MostafaELFEEL/A-star-path-planning.git
+   ```
 
 
 
