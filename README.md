@@ -70,7 +70,7 @@ A* algorithm has been evaluated on each map, demonstrating its ability to find o
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/MostafaELFEEL/2D-A-star-path-planning-using-only-NumPy.git
+   git clone https://github.com/MostafaELFEEL/A-star-path-planning.git
 
 
 
